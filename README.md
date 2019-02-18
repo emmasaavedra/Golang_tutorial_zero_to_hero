@@ -1,5 +1,5 @@
 # GoLang tutorial for Beginners
-I believe the simplicity and cleanliness of the Go programming Language makes it suitable as a language for first time programmers. 
+I believe the simplicity and cleanliness of the Go Programming Language makes it suitable as a language for first time programmers. 
 
 _This tutorial is written for people who have less that one year programming experience or even no experience whatsoever._
 
